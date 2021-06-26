@@ -1,0 +1,26 @@
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.exe
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.deps.json
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.runtimeconfig.json
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.runtimeconfig.dev.json
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.dll
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.pdb
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.csprojAssemblyReference.cache
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.AssemblyInfoInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.AssemblyInfo.cs
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.dll
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.pdb
+C:\Users\nasci\Documents\Atividades Feitas\3 Exercicio Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.genruntimeconfig.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.exe
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.deps.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.runtimeconfig.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.runtimeconfig.dev.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.dll
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\bin\Debug\netcoreapp3.1\3 Exercicio Condicionais.pdb
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.csprojAssemblyReference.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.AssemblyInfoInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.AssemblyInfo.cs
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.dll
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.pdb
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Estruturas Condicionais\Exercicio 3 Condicionais\obj\Debug\netcoreapp3.1\3 Exercicio Condicionais.genruntimeconfig.cache
